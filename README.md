@@ -50,3 +50,18 @@ The analysis simulates real stakeholder-driven scenarios and answers high-impact
   - SQL (Joins, CTEs, Window Functions)
   - Relational Database Modeling
   - Business KPI Framework
+
+## Dataset:
+  - Raw dataset:
+      order_details.csv
+      orders.csv
+      pizzas.csv
+      pizza_types.csv
+  - SQL file:
+      Pizza_hut.sql
+              
+
+
+
+
+
